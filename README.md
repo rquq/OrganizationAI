@@ -28,6 +28,13 @@ The backend provides pure Layer 1 normalization and Layer 2 policy evaluation, p
 It does not make any real workflow claim.
 Its operational `/health` readiness endpoint is intentionally limited to process and database status.
 
+## Temporary UI/UX prototype
+
+The local, backend-connected prototype is in [frontend/](frontend/). Its
+journey, local launch instructions, visible boundaries, and backend handoff
+question are recorded in
+[docs/ui/temporary_ui_ux_prototype.md](docs/ui/temporary_ui_ux_prototype.md).
+
 ## Sprint Integrity
 
 The team will preserve a public, truthful commit history throughout the sprint.
